@@ -1,0 +1,2 @@
+# gitskills
+to text clone
